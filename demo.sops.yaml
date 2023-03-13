@@ -3,4 +3,4 @@ creation_rules:
 
   encrypted_regex: "(^(.*[Pp]ass.*)$)|(^(data|stringData)$)"
 
-  azure_keyvault: 'https://kv-dev-usc-ah-sops.vault.azure.net/keys/sops-key/84345df060ac40e095a11e1f4fdd9555'
+  azure_keyvault: 'https://kv-dev-usc-ah-sops.vault.azure.net/keys/developers-key/30d0667ed1414855adef9ddd7026c334'
